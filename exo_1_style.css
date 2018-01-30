@@ -1,0 +1,46 @@
+nav{
+    text-align: center;
+}
+
+nav > span{
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+span{
+    font-weight: bold;
+}
+
+body{
+    background-color: rgb(212, 198, 179);
+}
+
+h1,h2{
+    text-decoration: underline;
+    line-height: 50%;
+}
+
+body > p{
+    text-align: justify;
+    text-indent: 25px;
+}
+
+#image_puy_de_dome{
+    float: right;
+    margin-left: 10px;
+}
+
+ul{
+    color: indigo;
+}
+
+ol{
+    color: red;
+}
+
+table,tr,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    caption-side: top;
+}
